@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/PortfolioFinal/static/js/main.f7a03e78.js",
+    "static/js/810.db5a14df.js": "/PortfolioFinal/static/js/810.db5a14df.js",
+    "static/media/squat.jpg": "/PortfolioFinal/static/media/squat.16838743f843d30283b6.jpg",
+    "static/media/rdl.jpg": "/PortfolioFinal/static/media/rdl.e85830b27732a061fad1.jpg",
+    "static/media/bench_press.jpg": "/PortfolioFinal/static/media/bench_press.fd48f24de97faf5b0344.jpg",
+    "static/media/deadlift.jpg": "/PortfolioFinal/static/media/deadlift.1fba90650e746c9f90a3.jpg",
+    "favicon.ico": "/PortfolioFinal/favicon.ico",
+    "index.html": "/PortfolioFinal/index.html",
+    "favicon-32.png": "/PortfolioFinal/favicon-32.png",
+    "favicon-16.png": "/PortfolioFinal/favicon-16.png",
+    "serve.json": "/PortfolioFinal/serve.json",
+    "manifest.json": "/PortfolioFinal/manifest.json",
+    "main.f7a03e78.js.map": "/PortfolioFinal/static/js/main.f7a03e78.js.map",
+    "810.db5a14df.js.map": "/PortfolioFinal/static/js/810.db5a14df.js.map"
+  },
+  "entrypoints": [
+    "static/js/810.db5a14df.js",
+    "static/js/main.f7a03e78.js"
+  ]
+}
